@@ -1,1 +1,2 @@
-Hello, CS370
+Hello, CS370 
+For some reason master never existed no matter how many times I start over the lab 1 so I attempted to switch master and Branch 1 and this paragraph is the change.
